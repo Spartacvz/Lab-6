@@ -1,3 +1,5 @@
+package com.Greg;
+
 import java.util.ArrayList;
 
 public class ITECCourseManager {
@@ -57,9 +59,9 @@ public class ITECCourseManager {
             ;
         }
     }
+}
 
-
-    public class ITECCourse {
+    class ITECCourse {
 
         //Data that an ITECCourse object needs to store
         private String name;
