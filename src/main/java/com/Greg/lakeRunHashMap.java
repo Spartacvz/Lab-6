@@ -12,7 +12,7 @@ public class lakeRunHashMap {
     public static void main(String[] args) {
 
         // Store data in a HashMap
-        HashMap<String, ArrayList<Double>> lakeTimes = new HashMap<>();
+        HashMap<String, ArrayList<Double>> lakeTimes = new HashMap<String, ArrayList<Double>>();
 
         boolean moreTimes = true;
 
